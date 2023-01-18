@@ -33,17 +33,18 @@ body {
   --orange: #e87d3e;
   --red: #e83e3e;
   --purple: #9e86c8;
+  --grey: #808080;
 
   --h1-color: var(--text-normal);
   --h2-color: var(--blue);
-  --h3-color: var(--blue);
+  --h3-color: var(--purple);
   --h4-color: var(--yellow);
-  --h5-color: var(--red);
+  --h5-color: var(--orange);
   --h6-color: var(--text-muted);
 
-  --strong-color: var(--pink);
-  --em-color: var(--pink);
-  --quote-color: var(--green);
+  --strong-color: var(--text-normal);
+  --em-color: var(--text-normal);
+  --quote-color: var(--grey);
 
   --tag-background-color-l: #bde1d3;
   --tag-font-color-l: #1d694b;
